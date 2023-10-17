@@ -20,7 +20,7 @@ This is my first home lab project in existence. I will be using Windows 10 on a 
 
   <img src="https://i.imgur.com/i48m4al.png" height="90%" width="90%"/>
 
-With this basic scan, I was only able to find 20 vulnerabilities with a risk score of 2 out of 5.  This scan is not accurate due to no credentials. To get a more accurate report, I need to add credentials to the next scan.
+With this basic scan, I was only able to find 20 vulnerabilities, 1 of which was confirmed with a risk score of 2 out of 5.  This scan is not accurate due to no credentials. To get a more accurate report, I need to add credentials to the next scan.
 
 
 <B>Credential Scan:</b>
