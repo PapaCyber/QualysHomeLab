@@ -23,6 +23,7 @@ This is my first home lab project in existence. In this project, I used a Qualys
 <br/>
 
   <img src="https://i.imgur.com/i48m4al.png" height="90%" width="90%"/>
+   <img src="https://i.imgur.com/r0qTSKc.png" height="90%" width="90%"/>
 
 With this basic scan, I was only able to find 20 vulnerabilities, 1 of which was confirmed with a risk score of 2 out of 5.  This scan is not accurate due to no credentials. To get a more accurate report, I need to add credentials to the next scan.
 
@@ -30,7 +31,8 @@ With this basic scan, I was only able to find 20 vulnerabilities, 1 of which was
 <B>Credential Scan:</b>
 <br/>
 
-  <img src="https://i.imgur.com/81pU1fo.png" height="90%" width="90%">
+  <img src="https://i.imgur.com/81pU1fo.png" height="90%" width="90%"/>
+  <img src="https://i.imgur.com/mfaSQWo.png" height="90%" width="90%"/>
 
 With a credential scan, the results were more accurate. A total 258 vulnerabilities were found with a maximum risk score of 5 out of 5. 
 
@@ -44,19 +46,20 @@ To remediate these vulnerabilities I can either update or delete these applicati
 <B>Credential Scan After Remediation:</b>
 <br/>
 
-  <img src="https://i.imgur.com/A9ML61J.png" height="90%" width="90%">
+  <img src="https://i.imgur.com/A9ML61J.png" height="90%" width="90%"/>
+   <img src="https://i.imgur.com/KLzi69J.png" height="90%" width="90%"/>
+ 
   
 After this scan, 89 confirmed vulnerabilities were reduced by a whopping 91% with 8 confirmed vulnerabilities left.
 
-I am not satisfied with the results since the average security risk is still 4 out of 5. 
-
-I will remediate more vulnerabilities to reduce the security risk and rescan.
+Let's see if I can remediate more vulnerabilities by reading the CVE reports.
 <br />
 
 <B>Credential Scan After Remediation Part 2:</b>
 <br/>
 
-  <img src="https://i.imgur.com/823YuzL.png" height="90%" width="90%">
+  <img src="https://i.imgur.com/823YuzL.png" height="90%" width="90%"/>
+   <img src="https://i.imgur.com/EVmRHyG.png" height="90%" width="90%"/>
   
 I removed 4 more confirmed vulnerabilities by following the solutions from the CVE report and reduced the average risk score from 4 to 3. This concludes the home lab Qualys project.
 
