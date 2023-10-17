@@ -35,7 +35,7 @@ With a credential scan, the results were more accurate. A total 258 vulnerabilit
 
 Just as intended, Firefox and VLC media player vulnerabilities were found. Not only that, Windows 10 needed to be patched, along with many other issues.
 
-To remediate these vulnerabilities I can either update or delete these applications. In this case, I will delete the deprecated applications and update Windows 10 and scan again to verify that these vulnerabilities are remediated. The firewall will also be turned on since it was turned off at the beginning.
+To remediate these vulnerabilities I can either update or delete these applications. In this case, I will delete the deprecated applications and update Windows 10 and scan again to verify that these vulnerabilities are remediated. 
 
 
 <B>Credential Scan After Remediation:</b>
@@ -55,5 +55,5 @@ I will remediate more vulnerabilities to reduce the security risk and rescan.
 
   <img src="https://i.imgur.com/823YuzL.png" height="90%" width="90%">
   
-I removed 4 more confirmed vulnerabilities and reduced the average risk score from 4 to 3. This concludes the home lab Qualys project.
+I removed 4 more confirmed vulnerabilities by following the solutions from the CVE report and reduced the average risk score from 4 to 3. This concludes the home lab Qualys project.
 
