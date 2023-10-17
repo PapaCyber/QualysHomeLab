@@ -1,5 +1,5 @@
 # Qualys Vulnerability Management HomeLab
- ### [Video Demonstration](https://www.loom.com/share/60ae7162cb4f4ce497789831da1a954b?sid=e632edd9-9f2c-4afa-9f58-3ff5c577dc45)
+ ### [Video Demonstration](https://www.loom.com/share/60a8d19134794321ae40ea8c001a5337?sid=8b2610fa-5cb1-420e-b749-c78f318be88e)
 <h2>Description</h2>
 This is my first home lab project in existence. I will be using Windows 10 on a virtual machine. I will install a deprecated version of Mozilla Firefox and VLC media player and use a Qualys Virtual Scanner Appliance on the Qualys Cloud Platform to scan the environment for vulnerabilities to test the scanner. The firewall will be disabled in the beginning and will be reenabled when I attempt to remediate the vulnerabilities. The first scan will be a basic scan with no credentials. The second scan will use credentials so I can compare the difference between a non-credential scan and a credential scan. After I complete the credential scan, I will review the results then remediate these vulnerabilities and verify that these vulnerabilities are removed.
 <h2>Software & Applications Used</h2>
