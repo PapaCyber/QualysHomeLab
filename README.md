@@ -52,7 +52,7 @@ To remediate these vulnerabilities I can either update or delete these applicati
   
 After this scan, 89 confirmed vulnerabilities were reduced by a whopping 91% with 8 confirmed vulnerabilities left.
 
-Let's see if I can remediate more vulnerabilities by reading the CVE reports.
+Let's see if I can remediate more vulnerabilities by reading the CVE report solutions.
 <br />
 
 <B>Credential Scan After Remediation Part 2:</b>
@@ -61,5 +61,7 @@ Let's see if I can remediate more vulnerabilities by reading the CVE reports.
   <img src="https://i.imgur.com/823YuzL.png" height="90%" width="90%"/>
    <img src="https://i.imgur.com/EVmRHyG.png" height="90%" width="90%"/>
   
-I removed 4 more confirmed vulnerabilities by following the solutions from the CVE report and reduced the average risk score from 4 to 3. This concludes the home lab Qualys project.
+I removed 4 more confirmed vulnerabilities by following the solutions from the CVE report and reduced the average risk score from 4 to 3. 
+
+In summary, this underscores the crucial necessity of consistently maintaining up-to-date software and operating systems to ensure that vulnerabilities remain at an acceptable risk level. Continuously monitor and scan your network for potential vulnerabilities, assess their significance, promptly report any identified issues to the relevant authorities, initiate remediation measures, and verify the successful removal of these vulnerabilities. This concludes my Qualys home lab project. Thank You for reading!
 
