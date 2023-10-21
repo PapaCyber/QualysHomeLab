@@ -63,5 +63,7 @@ Let's see if I can remediate more vulnerabilities by reading the CVE report solu
   
 I removed 4 more confirmed vulnerabilities by following the solutions from the CVE report and reduced the average risk score from 4 to 3. 
 
+<h2>Final Thoughts and Takeaway</h2>
+
 In summary, this underscores the crucial necessity of consistently maintaining up-to-date software and operating systems to ensure that vulnerabilities remain at an acceptable risk level. Continuously monitor and scan your network for potential vulnerabilities, assess their significance, promptly report any identified issues to the relevant authorities, initiate remediation measures, and verify the successful removal of these vulnerabilities. This concludes my Qualys home lab project. Thank You for reading!
 
